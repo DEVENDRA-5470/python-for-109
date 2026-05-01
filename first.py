@@ -23,3 +23,17 @@
 # print(res)
 
 
+# Type casting and Type conversion.
+
+# n=10
+# m=10
+# print(n+m)
+
+num=100
+name="Dev"
+# print(num+" "+name)
+
+print(type(name))
+print(type(num))
+
+

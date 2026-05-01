@@ -1,0 +1,13 @@
+What is python ?
+Variables and its rules.
+Arithmatic operations.
+Input/output (I/O).
+Type casting and Type conversion.
+    - str()
+    - float()
+    - int()
+
+Data Types.
+Number (int,float)
+String ("",'',""" """,''' ''')
+Boolean (True / False)
