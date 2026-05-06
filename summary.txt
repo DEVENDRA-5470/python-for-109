@@ -11,3 +11,10 @@ Data Types.
 Number (int,float)
 String ("",'',""" """,''' ''')
 Boolean (True / False)
+
+
+# Conditional statements:
+    if else
+    mutiple if
+    if elif else
+    Nested if else (chaining / ladder)

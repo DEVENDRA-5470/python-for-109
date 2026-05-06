@@ -3,6 +3,7 @@
 student_name="Aman kumar"
 student_address='D-1 255/455 "NOIDA SEC-15" NEW DELHI 110096'
 student_number="7800444499"
+
 student_profile=f"""Hello my self {student_name} and 
 i am a "Devops Intern" looking 
 for some challenging opertu... 
@@ -15,7 +16,7 @@ Contact {student_number}"""
 # Operaters in python.
 # 1.Arithmatic opr
 # 2.Assignment opr
-# 3.Comparision/relational opr
+# 3.Comparision/relational opr 
 # 4.Logical opr
 # 5.Membership opr
 # 6.Identity opr
