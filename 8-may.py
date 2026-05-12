@@ -43,5 +43,24 @@
 # 3x1=3
 
 
-     
-    
+
+# 1.Wap to takes start_point and end_point from user input 
+# and print all number divisble by 2 and 3.
+
+# 1.Read again and again in your mind.
+# 2.Problem requirements.
+    # requirements
+    # 1.variable
+    # 2.value/data
+    # 3.operator (= % // / + -)
+    # 4.input() : number 
+    # 5.Type casting int()
+    # 6.print()
+    # 7.value divide == 0 2 and 3
+    # 8.Problem solved
+
+# 1.Read again and again in your mind.
+# 2.Problem requirements.
+
+
+
