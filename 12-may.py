@@ -1,4 +1,4 @@
-# Traversing of string using range()
+# Traversing of string using range()        
 name="python"
 size=len(name)
 for i in range(size):
@@ -49,4 +49,8 @@ for i in name:
     # "NOHTYP"
 print(rev)
 
+
+# waf to sum of the indices of a string : "python".
+# waf to print the factorial from 1 to 8.
+# waf to print only prime number from 1 to 15.
 
