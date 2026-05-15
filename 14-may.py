@@ -15,9 +15,14 @@
 
 # wap to print only even number from 10 to 20.
 
-start=10
-end=20
-while start <= end:
-    if start%2==0:
-        print(start)
-    start+=3
+# start=10
+# end=20
+# while start <= end:
+#     if start%2==0:
+#         print(start)
+#     start+=3
+
+# Wap to print the total of even number from 1 to 15.
+# Wap to check the give string by user is "palindrome" or "not palindrome".
+# Wap to reverse the digit : 1234 output : 4321
+
