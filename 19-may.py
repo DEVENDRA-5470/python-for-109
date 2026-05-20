@@ -75,12 +75,72 @@
 # print(sub(10,res))
 
 
-def greet(a):
-    return a
-g=greet("Namaste")
+# def greet(a):
+#     return a
 
-def user_name(a):
-    return a
-u=user_name(input("Enter your name :"))
+# def user_name(a):
+#     return a
 
-print(g,u)
+
+# print(greet("Namaste"),user_name(input("Enter your name :")))
+
+
+
+
+
+
+"Hello Dev"
+# total 2 function
+# arg and parameter
+
+
+
+# Waf to check number pass by argument is odd or even.
+# def odd_even(a):
+#     if a%2==0:
+#         print("Even")
+#     else:
+#         print("Odd")
+# odd_even(7)
+
+# waf to check which number is greater and two number by user.
+# def check_greater(n1,n2):
+#     if n1 > n2 :
+#         print(n1 ,"is greater")
+#     else:
+#         print(n2," is greater")
+
+# n1=11
+# n2=33
+# check_greater(n1,n2)
+
+# Waf to check the character pass by user is vowel or consonant.
+# def check_char(c):
+#     if c in "aeiouAEIOU":
+#         print(f"Char is {c} vowel")
+#     else:
+#         print(f"This is consonant : {c}")
+
+# user_input="k"   
+# check_char(user_input)
+
+# Waf to check is number completly divide by 2 and 3 and return 
+# "Yes number is completely divide"
+# "No number is not completely divide"
+# def check_number(n):
+#     if n % 2 == 0 and n % 3 == 0:
+#         return "Yes number is completely divide"
+#     else:
+#         return "No number is not completely divide"
+# res=check_number(6)
+# print(res)
+
+# waf to return length of a string pass by user without using len().
+# def len_string(s):
+#     print(s)
+#     c=0
+#     for i in s:
+#         c+=1
+#     return c
+# res=len_string("python")
+# print(res)
