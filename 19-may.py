@@ -144,3 +144,45 @@
 #     return c
 # res=len_string("python")
 # print(res)
+
+
+# waf to check given how many vowel in a given string.
+# def vowel_count(a):
+#     c=0
+#     for i in a:
+#         if i in "aeiou":
+#             c+=1
+#     return c
+# res=vowel_count("programming")
+# print(res)
+
+# local variable vs global variable
+# name="Dev" # global variable
+# def msg():
+#     # global name
+#     name="Dev" # local variable
+#     print("Inside:",name)
+# msg()
+# print("Outside :",name)
+
+
+# Waf to count char "p" in "python programming" return total occurence.
+# def vowel_count(dest,find):
+#     c=0
+#     for i in dest:
+#         if i == find:
+#             c+=1
+#     return c
+# dest="python programming"
+# find="n"
+# res=vowel_count(dest,find)
+# print(res)
+
+# Waf to return sum of strings indexes.
+def sum_indexes(a):
+    s=0
+    for i in range(len(a)):
+        s=s+i
+    return s
+res=sum_indexes("python")
+print(res)
