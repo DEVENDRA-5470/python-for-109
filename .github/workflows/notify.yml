@@ -11,7 +11,7 @@ jobs:
           TEXT="${TEXT}📦 Repo   : ${{ github.repository }}%0A"
           TEXT="${TEXT}🔗 Link   : https://github.com/${{ github.repository }}%0A"
           TEXT="${TEXT}🌿 Branch : ${{ github.ref_name }}%0A"
-          TEXT="${TEXT}👤 By     : ${{ github.actor }}%0A"
+          TEXT="${TEXT}👤 Author     : ${{ github.actor }}%0A"
           TEXT="${TEXT}💬 Commit : ${{ github.event.commits[0].message }}%0A"
           TEXT="${TEXT}━━━━━━━━━━━━━━━━━━"
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
