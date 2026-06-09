@@ -63,11 +63,11 @@ emp_name=["aman","shivam"]
 # print(my_list)
 
 # copy()
-my_list=[100,200,300,400,500,600]
-dup_list=my_list.copy()
-print(my_list)
-dup_list.pop(3)
-print(dup_list)
+# my_list=[100,200,300,400,500,600]
+# dup_list=my_list.copy()
+# print(my_list)
+# dup_list.pop(3)
+# print(dup_list)
 
 # index()
 # my_list=[100,200,300,100,400,500,600]

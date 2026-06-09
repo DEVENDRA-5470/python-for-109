@@ -2,11 +2,12 @@
 # Data structures used to store data effeciently and make faster process
 # for operations like Read and write.
 
-# 1.List : list()
+# 1.List : list() ✅
 # 2.String : str()
 # 3.Dictionary : dict()
 # 4.Set : set()
-# 5.Tuple : tuple()
+# 5.Tuple : tuple() ✅
+
 
 ############################### 1.List
 # 1.List is a data structure in python used to store multiple data of different types
