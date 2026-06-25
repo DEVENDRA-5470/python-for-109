@@ -3,9 +3,9 @@
 # for operations like Read and write.
 
 # 1.List : list() ✅
-# 2.String : str()
-# 3.Dictionary : dict()
-# 4.Set : set()
+# 2.String : str() ✅
+# 3.Dictionary : dict() S.A
+# 4.Set : set() S.A
 # 5.Tuple : tuple() ✅
 
 

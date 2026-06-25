@@ -179,10 +179,28 @@
 # print(res)
 
 # Waf to return sum of strings indexes.
-def sum_indexes(a):
-    s=0
-    for i in range(len(a)):
-        s=s+i
-    return s
-res=sum_indexes("python")
-print(res)
+# def sum_indexes(a):
+#     s=0
+#     for i in range(len(a)):
+#         s=s+i
+#     return s
+# res=sum_indexes("python")
+# print(res)
+
+
+
+# wap to check odd_even number.
+# def odd_even(n):
+#     if n%2==0:
+#         return "EVEN"
+#     else:
+#         return "ODD"
+# res=odd_even(11)
+# print(res)
+
+
+# res=lambda x,y : x+y
+# print(res(10,20))
+
+
+
